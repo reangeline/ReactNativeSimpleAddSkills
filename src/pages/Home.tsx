@@ -57,7 +57,7 @@ export function Home(){
 
 
         <Text style={styles.title}>
-            Welcome, Rodrigo
+            Welcome, Renato
         </Text>
 
         <Text style={styles.greetings}>
